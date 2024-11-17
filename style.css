@@ -119,7 +119,6 @@ button {
 
 @media (min-width: 600px) {
   .product-preview-card {
-    display: grid;
     grid-template-columns: 1fr 1fr;
   }
   .product-preview-card__content {
